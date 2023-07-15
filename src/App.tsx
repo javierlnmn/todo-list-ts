@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Todos } from "./Todos";
+import { Todos } from "./components/Todos";
 
 const mockTodos = [
     {
