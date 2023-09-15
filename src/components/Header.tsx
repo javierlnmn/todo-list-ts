@@ -1,4 +1,3 @@
-import { TodoTitle } from "../types"
 import { CreateTodo } from "./CreateTodo"
 
 
